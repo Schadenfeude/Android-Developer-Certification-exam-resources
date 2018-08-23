@@ -26,11 +26,9 @@ How to collaborate? Just add under every line a resource you want to share i.e.:
   * #### 1.1- Write and execute local JVM unit tests
       * Unit testing from [Android docs](https://developer.android.com/training/testing/unit-testing/)
       * Test your Room database from [Android docs](https://developer.android.com/training/data-storage/room/testing-db)
-      * Good article about Unit testing from [ProAndroidDev](https://proandroiddev.com/seven-principles-of-great-unit-tests-adapted-for-android-342515f98ef2)
   * #### 1.2- Write and execute Android UI tests
   * #### 1.3- Use the system log to output debug information
   * #### 1.4- Debug and fix issues with an app's functional behavior and usability
-      * Debugging tips from [Black Lens](https://blacklenspub.com/5-debugging-tips-with-android-studio-65751011262f)
 
 
 ## 2) User interface (UI) and app functionality
@@ -55,6 +53,7 @@ How to collaborate? Just add under every line a resource you want to share i.e.:
 ## 3) App data and files
 
   * #### 3.1- Define data using Room entities
+      * Android Persistence with Room Database [sample](https://github.com/googlecodelabs/android-persistence)
   * #### 3.2- Access Room database with data access object (DAO)
   * #### 3.3- Observe and respond to changing data using LiveData
   * #### 3.4- Use a Repository to handle data operations
